@@ -1,0 +1,16 @@
+C:\Users\Owner\Desktop\Основы пронраммирования\II semester\lab_2\lab_2\obj\Debug\netcoreapp3.1\lab_2.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Основы пронраммирования\II semester\lab_2\lab_2\obj\Debug\netcoreapp3.1\lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Основы пронраммирования\II semester\lab_2\lab_2\obj\Debug\netcoreapp3.1\lab_2.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Основы пронраммирования\II semester\lab_2\lab_2\obj\Debug\netcoreapp3.1\lab_2.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Основы пронраммирования\II semester\lab_2\lab_2\obj\Debug\netcoreapp3.1\lab_2.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Основы пронраммирования\II semester\lab_2\lab_2\bin\Debug\netcoreapp3.1\lab_2.exe
+C:\Users\Owner\Desktop\Основы пронраммирования\II semester\lab_2\lab_2\bin\Debug\netcoreapp3.1\lab_2.deps.json
+C:\Users\Owner\Desktop\Основы пронраммирования\II semester\lab_2\lab_2\bin\Debug\netcoreapp3.1\lab_2.runtimeconfig.json
+C:\Users\Owner\Desktop\Основы пронраммирования\II semester\lab_2\lab_2\bin\Debug\netcoreapp3.1\lab_2.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\Основы пронраммирования\II semester\lab_2\lab_2\bin\Debug\netcoreapp3.1\lab_2.dll
+C:\Users\Owner\Desktop\Основы пронраммирования\II semester\lab_2\lab_2\bin\Debug\netcoreapp3.1\lab_2.pdb
+C:\Users\Owner\Desktop\Основы пронраммирования\II semester\lab_2\lab_2\obj\Debug\netcoreapp3.1\lab_2.dll
+C:\Users\Owner\Desktop\Основы пронраммирования\II semester\lab_2\lab_2\obj\Debug\netcoreapp3.1\lab_2.pdb
+C:\Users\Owner\Desktop\Основы пронраммирования\II semester\lab_2\lab_2\obj\Debug\netcoreapp3.1\lab_2.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Основы пронраммирования\II semester\lab_2\lab_2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Owner\Desktop\Основы пронраммирования\II semester\lab_2\lab_2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
